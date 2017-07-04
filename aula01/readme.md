@@ -1,5 +1,5 @@
-#Aula 01 - Exercício
-#Código original:
+# Aula 01 - Exercício
+# Código original:
 // code zuado aqui
-#Código refatorado
+# Código refatorado
 // code da hora aqui
